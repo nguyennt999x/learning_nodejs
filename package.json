@@ -1,0 +1,19 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyennt999x/learning_nodejs.git"
+  },
+  "author": "nguyennt0999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyennt999x/learning_nodejs/issues"
+  },
+  "homepage": "https://github.com/nguyennt999x/learning_nodejs#readme"
+}
